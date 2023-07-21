@@ -14,6 +14,7 @@ Declared our alpha as the standard of .05
 # Select an appropriate test statistic
 We will be using the Independent T Test
 # Collect data:
+Given to us.
 
 # Calculate the test statistic: 
 Test Stat: -1.017
@@ -21,14 +22,19 @@ Leaning more towards the null hypothesis
 
 # Determine the p-value: 
 p-value: 0.8445711798616594
-Suggests high probability due to chance
+Suggests high probability due to chance.
+
 # Compare the p-value to α:
 p-value > a
-We cannot reject the null hypothesis
+We cannot reject the null hypothesis.
+
 # Draw conclusions: 
 According to data, we cannot reject the null hypothesis of US vehicles not being faster than Japanese cars made past the median year.
 Refer to graphs.
+
 # Consider effect size and practical significance: 
 Effect size: -0.17331959628141816
-This shows that it has a small effect size which means it has a limited practical application. This due to our smaller sample size. Possibly measuring MPG could have a greater effect size
+This shows that it has a small effect size which means it has a limited practical application. This due to our smaller sample size. Possibly measuring MPG could have a greater effect size.
+
 # Assess statistical power:
+Statistical power shows that we have a higher chance to encounter a Type II error. Howerver our effect size and sample size lends itself to this metric within the context of our expirment. 
