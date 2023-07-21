@@ -19,7 +19,6 @@ We will be using the Independent T Test
 Test Stat: -1.017
 Leaning more towards the null hypothesis
 
-
 # Determine the p-value: 
 p-value: 0.8445711798616594
 Suggests high probability due to chance
@@ -31,5 +30,5 @@ According to data, we cannot reject the null hypothesis of US vehicles not being
 Refer to graphs.
 # Consider effect size and practical significance: 
 Effect size: -0.17331959628141816
-This shows that it has a small effect size which means it has a limited practical application
+This shows that it has a small effect size which means it has a limited practical application. This due to our smaller sample size. Possibly measuring MPG could have a greater effect size
 # Assess statistical power:
